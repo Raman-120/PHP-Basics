@@ -35,5 +35,7 @@ $type = match($num){
 
 echo $type;
 
+// It isn't mandatory to give default case but it is good to provide default case as php
+// will throw unhandlederror in case of no case is found or covered.
 
 ?>
