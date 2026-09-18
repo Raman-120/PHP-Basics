@@ -22,6 +22,8 @@
         <input type="password" name = "pass"> <br>
         <input type = "submit" name="" value = "Insert Data">
         </form>
+
+        <a href="view-data.php">view data</a>
     
 </body>
 </html>
